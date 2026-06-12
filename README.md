@@ -69,6 +69,17 @@ Columns:
 * day
 * event_type
 * total_events
+## Sample Analytics Query
+
+```sql
+SELECT
+    DATE(created_at) AS day,
+    event_type,
+    COUNT(*) AS total_events
+FROM github_events
+GROUP BY day, event_type
+ORDER BY day DESC;
+```
 
 ## Dashboard Screenshots
 
