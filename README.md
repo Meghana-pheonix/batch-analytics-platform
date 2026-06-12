@@ -87,3 +87,7 @@ Columns:
 * Aggregated reporting datasets
 * Grafana operational dashboards
 * Dockerized deployment
+
+## Docker Setup
+
+PostgreSQL was deployed using Docker containers for local development and testing.
