@@ -74,11 +74,11 @@ Columns:
 
 ### GitHub Events Dashboard
 
-![Dashboard](dashboards/Github_events.png)
+<img width="1902" height="856" alt="Github_events" src="https://github.com/user-attachments/assets/a4fffa44-8d38-4d49-88f6-68532e6b8de1" />
 
 ### Event Analytics Dashboard
 
-![Dashboard](dashboards/Github_events_2.png)
+<img width="1820" height="372" alt="Github_events_2" src="https://github.com/user-attachments/assets/3deaa3dd-8673-46bd-aaa6-755e5e388521" />
 
 ## Key Features
 
